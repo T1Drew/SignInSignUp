@@ -62,7 +62,7 @@ a {
 }
 
 .social-container {
-    margin: 20px 0;
+    margin: 15px 0;
 }
 
 .social-container a {
@@ -72,8 +72,8 @@ a {
     justify-content: center;
     align-items: center;
     margin: 0 5px;
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
 }
 
 .form-container input {
